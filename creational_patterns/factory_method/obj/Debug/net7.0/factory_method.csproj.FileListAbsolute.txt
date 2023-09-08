@@ -1,0 +1,15 @@
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/bin/Debug/net7.0/factory_method
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/bin/Debug/net7.0/factory_method.deps.json
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/bin/Debug/net7.0/factory_method.runtimeconfig.json
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/bin/Debug/net7.0/factory_method.dll
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/bin/Debug/net7.0/factory_method.pdb
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/obj/Debug/net7.0/factory_method.csproj.AssemblyReference.cache
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/obj/Debug/net7.0/factory_method.GeneratedMSBuildEditorConfig.editorconfig
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/obj/Debug/net7.0/factory_method.AssemblyInfoInputs.cache
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/obj/Debug/net7.0/factory_method.AssemblyInfo.cs
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/obj/Debug/net7.0/factory_method.csproj.CoreCompileInputs.cache
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/obj/Debug/net7.0/factory_method.dll
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/obj/Debug/net7.0/refint/factory_method.dll
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/obj/Debug/net7.0/factory_method.pdb
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/obj/Debug/net7.0/factory_method.genruntimeconfig.cache
+/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/obj/Debug/net7.0/ref/factory_method.dll
