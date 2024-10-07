@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jyfXnUWT63/Kxi+n+RaMGW65nCqhGMD18qYIZYDAM29wwNRohFLFwmFSpLNmx7ZZjerzla3+W9JxrGDIgO4Lfw==",
+  "dgSpecHash": "7MGDwaYXIKk=",
   "success": true,
-  "projectFilePath": "/home/jayme/projetos/git/design-patterns/creational_patterns/factory_method/factory_method.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\projetos\\git\\design-patterns\\creational_patterns\\factory_method\\factory_method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
